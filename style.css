@@ -161,7 +161,7 @@ button {
 .prime-right {
     height: 709px;
     width: 470px;
-    background-image: url("/assets/images/sofa.png");
+    background-image: url("assets/images/sofa.png");
     background-repeat: no-repeat;
     padding-top: 450px;
     padding-left: 40px;
@@ -256,7 +256,7 @@ button {
 .heightline-product {
     height: 233px;
     width: 380px;
-    background-image: url("/assets/images/sofa.png");
+    background-image: url("assets/images/sofa.png");
     background-repeat: no-repeat;
     padding-top: 450px;
     padding-left: 40px;
